@@ -73,7 +73,7 @@ Anticipate the evolution of our Ecommerce Sales Dashboard! Our quest continues, 
 
 ## Contribute and Connect ⚔️
 
-Venture forth and contribute! Should your insights align with ours or the call for collaboration beckons, connect with us on [LinkedIn](https://www.linkedin.com/in/yourprofile) to partake in our data-driven expedition.
+Venture forth and contribute! Should your insights align with ours or the call for collaboration beckons, connect with us on [LinkedIn](https://www.linkedin.com/in/pranjal4/) to partake in our data-driven expedition.
 
 May your voyage through our Ecommerce Sales Dashboard be marked by revelations, strategic enlightenment, and triumphant insights.
 
