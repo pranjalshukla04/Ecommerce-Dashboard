@@ -50,7 +50,7 @@ Embark on a voyage through YTD Sales by Shipping Type, uncovering the essence of
 ## Dashboard 📊
 
 <p align="center">
-  <img src="https://github.com/pranjalshukla04/Ecommerce-Dashboard/raw/main/Images/dashboard.png" alt="Dashboard" width="1000" />
+  <img src="https://github.com/pranjalshukla04/Ecommerce-Dashboard/blob/main/Images/dashbaord.png" alt="Dashboard" width="1000" />
 </p>
 Dive into our captivating Power BI Sales Dashboard, where data comes to life and insights flourish. Seamlessly navigate through interactive visualizations, calculated metrics, and a rich narrative that empowers your decision-making.
 
